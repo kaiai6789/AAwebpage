@@ -1,0 +1,17 @@
+{
+  "name": "aawebpage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AAwebpage - Gatsby site",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.13.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
